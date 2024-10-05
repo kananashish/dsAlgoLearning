@@ -1,4 +1,4 @@
-class selectionSort {
+class Solution {
     public int[] selectionSort(int[] nums) {
         //size of array
         int n = nums.length;
